@@ -1,0 +1,11 @@
+server:
+  port: 8080
+
+
+management:
+  security:
+    enabled: false
+
+
+myConfig:
+  name: eternal
