@@ -1,10 +1,20 @@
 server:
   port: 8080
+  #context-path:
 
 
 management:
   security:
     enabled: false
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    data-username: eternal
+    data-password: eternal0412
+
+
 
 
 myConfig:
