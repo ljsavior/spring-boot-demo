@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Created by lijun on 17-9-9.
  */
 @RestController
-public class Controller {
+public class HelloWorldController {
     @Value("${myConfig.name}")
     private String name;
 

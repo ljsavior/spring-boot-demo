@@ -11,8 +11,10 @@ management:
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    data-username: eternal
-    data-password: eternal0412
+    url: jdbc:mysql://120.27.93.16:3306/eternal
+    username: eternal
+    password: eternal
+
 
 
 
