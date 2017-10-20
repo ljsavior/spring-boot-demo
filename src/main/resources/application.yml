@@ -33,7 +33,9 @@ spring:
     filters: stat,wall,log4j
     connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
 
-
+  freemarker:
+    cache: false
+    suffix: .ftl
 
 
 myConfig:
