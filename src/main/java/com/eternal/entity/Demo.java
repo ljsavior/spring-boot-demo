@@ -2,12 +2,11 @@ package com.eternal.entity;
 
 import java.util.Date;
 
-/**
- * Created by yeyang.lj on 2017/10/19.
- */
 public class Demo {
     private Integer id;
+
     private String name;
+
     private Date date;
 
     public Integer getId() {

@@ -38,5 +38,7 @@ spring:
     suffix: .ftl
 
 
-myConfig:
-  name: eternal
+mybatis:
+  mapper-locations: classpath:com/eternal/mapper/*.xml
+  type-aliases-package: com.eternal.entity
+
