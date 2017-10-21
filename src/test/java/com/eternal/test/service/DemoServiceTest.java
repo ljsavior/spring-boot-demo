@@ -3,7 +3,7 @@ package com.eternal.test.service;
 import javax.annotation.Resource;
 
 import com.eternal.Application;
-import com.eternal.com.eternal.service.DemoService;
+import com.eternal.service.DemoService;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

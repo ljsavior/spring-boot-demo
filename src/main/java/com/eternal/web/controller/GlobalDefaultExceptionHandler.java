@@ -1,4 +1,4 @@
-package com.eternal.com.eternal.web.controller;
+package com.eternal.web.controller;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;

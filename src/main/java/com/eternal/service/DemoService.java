@@ -1,4 +1,4 @@
-package com.eternal.com.eternal.service;
+package com.eternal.service;
 
 import java.util.List;
 

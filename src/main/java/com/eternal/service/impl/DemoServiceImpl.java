@@ -1,10 +1,10 @@
-package com.eternal.com.eternal.service.impl;
+package com.eternal.service.impl;
 
 import java.util.List;
 
 import javax.annotation.Resource;
 
-import com.eternal.com.eternal.service.DemoService;
+import com.eternal.service.DemoService;
 import com.eternal.entity.Demo;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;

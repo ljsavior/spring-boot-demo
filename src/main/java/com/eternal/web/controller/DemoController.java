@@ -1,6 +1,6 @@
-package com.eternal.com.eternal.web.controller;
+package com.eternal.web.controller;
 
-import com.eternal.com.eternal.service.DemoService;
+import com.eternal.service.DemoService;
 import com.eternal.entity.Demo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

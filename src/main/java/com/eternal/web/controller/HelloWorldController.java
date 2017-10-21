@@ -1,4 +1,4 @@
-package com.eternal.com.eternal.web.controller;
+package com.eternal.web.controller;
 
 import com.alibaba.fastjson.JSONObject;
 import org.springframework.beans.factory.annotation.Value;
