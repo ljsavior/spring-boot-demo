@@ -36,6 +36,7 @@ spring:
   freemarker:
     cache: false
     suffix: .ftl
+    request-context-attribute: rc
 
 
 mybatis:
